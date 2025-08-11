@@ -1,5 +1,8 @@
 # Xenon here 👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=xenon-xys&show_icons=true&theme=radical)
+
+
 ### 个人介绍 Self Introduction
 
 :blush: 一名本科生，正在学习基础代码编程，同时尝试自研各类游戏模组<br>
