@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://github.com/xenon-xys">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=C++;Python;Java&center=true&size=24&duration=3000&pause=1000">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=C plus plus;Python;Java&center=true&size=24&duration=3000&pause=1000&color=FFD700">
     </a>
 </p>
 
