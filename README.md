@@ -1,6 +1,7 @@
 # Xenon here 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xenon-xys&show_icons=true&theme=radical)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-xys&layout=compact&theme=radical)
 
 
 ### 个人介绍 Self Introduction
@@ -30,8 +31,14 @@
 [知乎](https://www.zhihu.com/people/wang-yin-shao-nian-33-10)<br>
 :mailbox:网易邮箱：xenon_xys@163.com<br>
 
+<p align="center">
+    <a href="https://github.com/xenon-xys">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=C++;Python;Java&center=true&size=24&duration=3000&pause=1000">
+    </a>
+</p>
 
-![头像](image/头像.jpg)
+
+![头像](image/profile.jpg)
 
 
 <!--
