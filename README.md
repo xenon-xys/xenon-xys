@@ -29,6 +29,8 @@
 [bilibili](https://space.bilibili.com/322173797)<br>
 ![知乎](https://img.shields.io/badge/zhihu-000000?style=for-the-badge&logo=zhihu&logoColor=white)<br>
 [知乎](https://www.zhihu.com/people/wang-yin-shao-nian-33-10)<br>
+![洛谷](https://img.shields.io/badge/luogu-000000?style=for-the-badge&logo=luogu&logoColor=white)<br>
+[洛谷](https://www.luogu.com.cn/user/551827)<br>
 :mailbox:网易邮箱：xenon_xys@163.com<br>
 
 <p align="center">
