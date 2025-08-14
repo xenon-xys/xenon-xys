@@ -1,7 +1,8 @@
 # Xenon here 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=xenon-xys&show_icons=true&theme=radical)
-![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-xys&layout=compact&theme=radical)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=xenon-xys&layout=compact&theme=radical&count_private=true)
+
 
 
 ### 个人介绍 Self Introduction
