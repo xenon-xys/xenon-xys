@@ -13,7 +13,7 @@
 :computer: 目前正在学习C++，Python，Java，HTML和JavaScript<br>
 :books: 在Github学习开发者们的代码<br>
 :rocket: 未来希望能成为一名优秀的游戏开发者<br>
-:earth_asia: 中国,湖南，长沙<br>
+:earth_asia: 中国，湖南，长沙<br>
 
 :blush: An undergraduate student is learning basic code programming and simultaneously trying to develop various game mods<br>
 :school: Central South University<br>
