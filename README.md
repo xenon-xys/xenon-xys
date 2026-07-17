@@ -32,6 +32,8 @@
 [知乎](https://www.zhihu.com/people/wang-yin-shao-nian-33-10)<br>
 ![洛谷](https://img.shields.io/badge/luogu-000000?style=for-the-badge&logo=luogu&logoColor=white)<br>
 [洛谷](https://www.luogu.com.cn/user/551827)<br>
+![小红书](https://img.shields.io/badge/xiaohongshu-000000?style=for-the-badge&logo=xiaohongshu&logoColor=white)<br>
+[小红书](https://www.xiaohongshu.com/user/profile/5f2de9340000000001002a58)<br>
 :mailbox:网易邮箱：xenon_xys@163.com<br>
 
 <p align="center">
